@@ -32,4 +32,4 @@ I have heavily commented the code itself so that anything potentially unclear is
 
 ## Link to hosted solution
 
-Here is the link to the solution hosted on Vercel -> [Link](https://www.google.com)
+Here is the link to the solution hosted on Vercel -> [Link](https://backend-assessment-cmking1997s-projects.vercel.app)
